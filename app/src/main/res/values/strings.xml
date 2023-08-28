@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Flex</string>
+    <string name="gasoline">Gasolina</string>
+    <string name="ethanol">Etanol</string>
 </resources>
